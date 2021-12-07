@@ -1,5 +1,7 @@
 # Synth
 
+## Project Overview
+The Synth is an Arduino implementation of a physical MIDI synthesizer instrument. It features a piano-like keyboard made of styrofoam-covered pushbuttons, a photoresistor for changing the note velocity, a potentiometer for varying the instrument timbre, and seven pushbuttons to temporarily shift the octave range of the thirteen keys. The detailed project report can be found in the [wiki](https://github.com/zhannaklimanova/Synth/wiki).
 
 ### Demo of the Synth functionality: velocity, instrument change, and NOTE-ON/NOTE-OFF.
 
